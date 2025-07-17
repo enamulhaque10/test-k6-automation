@@ -1,5 +1,5 @@
 # test-k6-automation
-# k6 insattation
+# k6 Installation
 sudo apt update
 sudo apt install gnupg ca-certificates
 curl -fsSL https://dl.k6.io/key.gpg | sudo gpg --dearmor -o /usr/share/keyrings/k6-archive-keyring.gpg
